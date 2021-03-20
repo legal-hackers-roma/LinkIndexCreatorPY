@@ -8,7 +8,7 @@ defusedxml==0.6.0
 fpdf==1.7.2
 html5lib==1.0.1
 isort==4.3.21
-Jinja2==2.10.1
+Jinja2==2.11.3
 lazy-object-proxy==1.4.2
 lxml==4.4.1
 MarkupSafe==1.1.1
