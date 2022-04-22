@@ -16,7 +16,7 @@ mccabe==0.6.1
 Pillow==6.1.0
 pycparser==2.19
 pylint==2.3.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyphen==0.9.5
 reportlab==3.5.23
 six==1.12.0
